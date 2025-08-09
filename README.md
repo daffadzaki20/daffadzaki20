@@ -1,8 +1,25 @@
 # 👋 Halo, saya Daffa Dzaki!
 
-Saya adalah seorang mahasiswa di **Amikom Surakarta** yang sedang belajar dan mendalami dunia pemrograman. Saya tertarik untuk terus mengembangkan kemampuan coding saya dan membangun berbagai proyek menarik.
+Saya adalah mahasiswa di **Amikom Surakarta** yang sedang belajar dan mengembangkan kemampuan di bidang pemrograman. Saya tertarik pada pengembangan web, khususnya menggunakan PHP dan framework Laravel. Saat ini saya masih dalam proses belajar dan membangun berbagai proyek kecil sebagai latihan.
 
-Silakan jelajahi repository saya untuk melihat perjalanan belajar saya sejauh ini!
+---
+
+## 🛠️ Teknologi yang Saya Gunakan
+
+### 📌 Bahasa & Framework
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade%20Template-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🎨 Frontend & UI
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+### 🧰 Tools & Lainnya
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -10,8 +27,8 @@ Silakan jelajahi repository saya untuk melihat perjalanan belajar saya sejauh in
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daffadzaki20&layout=compact&theme=tokyonight)
 
-<!-- Pastikan username GitHub kamu benar di bagian "username=" -->
+<!-- Ganti "daffadzaki" dengan username GitHub kamu jika berbeda -->
 
 ---
 
-Terima kasih sudah mengunjungi profil saya! 🚀
+Terima kasih telah mengunjungi profil saya! 🚀
