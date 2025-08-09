@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Halo, saya Daffa Dzaki!
 
-<!--
-**daffadzaki20/daffadzaki20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah seorang mahasiswa di **Amikom Surakarta** yang sedang belajar dan mendalami dunia pemrograman. Saya tertarik untuk terus mengembangkan kemampuan coding saya dan membangun berbagai proyek menarik.
 
-Here are some ideas to get you started:
+Silakan jelajahi repository saya untuk melihat perjalanan belajar saya sejauh ini!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Bahasa Pemrograman yang Paling Sering Digunakan
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daffadzaki20&layout=compact&theme=tokyonight)
+
+<!-- Pastikan username GitHub kamu benar di bagian "username=" -->
+
+---
+
+Terima kasih sudah mengunjungi profil saya! 🚀
