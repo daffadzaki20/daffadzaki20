@@ -1,6 +1,6 @@
 # 👋 Halo, saya Daffa Dzaki!
 
-Saya adalah mahasiswa di **Amikom Surakarta** yang sedang belajar dan mengembangkan kemampuan di bidang pemrograman. Saya tertarik pada pengembangan web, khususnya menggunakan PHP dan framework Laravel. Saat ini saya masih dalam proses belajar dan membangun berbagai proyek kecil sebagai latihan.
+Saya adalah mahasiswa semester 5 STMIK Amikom Surakarta. Saya di semester 5 mengambil pemfokusan jurusan di pemrograman. Saya sangat suka sekali hal yang berkaitan dengan digital, saya suka mempelajari bagian Front End, saya juga belajar bagian Back End. Saya pun juga suka membuat design UI/UX dengan menggunakan aplikasi figma. Saya mempelajari bahasa pemrograman dari semester 1 (c++), semester 2 (python). semester 3 (HTML, PHP, CSS, JS), semester 4 (Java).
 
 ---
 
