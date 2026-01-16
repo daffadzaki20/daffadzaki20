@@ -1,6 +1,6 @@
 👋 Hi, I'm Muhammad Daffa Dzaki Pratama (you can call me Dzaki)!!  
 
-🎓 A 5th-semester Informatics Engineering student.  
+🎓 5th-semester Informatics Engineering student.  
 
 💻 I have learned 9 programming languages: 🔹 C++ | 🌐 HTML | 🐘 PHP | 🎨 CSS | ⚡ JavaScript | 🗄️ SQL | ☕ Java | 🎯 Dart.  
 
